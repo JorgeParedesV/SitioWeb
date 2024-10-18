@@ -11,6 +11,7 @@ const styles = {
         borderRadius: '5px',
     },
     img : {
+        height: '255px',
         width: '100%',
     }
 }

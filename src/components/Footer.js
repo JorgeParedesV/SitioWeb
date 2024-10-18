@@ -11,7 +11,7 @@ const styles = {
         justifyContent:'space-between',
         alignItems: 'center',
         padding: '0 25px',
-        boxShadow: '0 1px 8px rgba(0, 0, 0, 0.3);',
+        boxShadow: '0 -2px 3px rgba(0, 0, 0, 0.1)',
     },
     ordenContenido: {
         display: 'flex',
@@ -25,8 +25,6 @@ const styles = {
         alignItems: 'center',
         position: 'relative',
     }
-
-
 }
 
 class Footer extends Component {
